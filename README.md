@@ -37,7 +37,7 @@ Project developed during a course taught by instructor Rodrigo Manguinho where I
 * Builder
 * Singleton
 
-> ## Metodologias e Designs
+> ## Methodologies and Designs
 
 * TDD
 * Clean Architecture
